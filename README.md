@@ -1,1 +1,16 @@
-# -
+# 2023.4.41
+## win11笔记本电池健康度
+Win+R，输入CMD。在CMD里面输入“powercfg /batteryreport”。然后打开个人文件夹，查看生成的电池报告文件   
+
+![image](https://user-images.githubusercontent.com/73635883/231927237-68016fb6-149d-4a77-8592-901de2249e0b.png)
+## win11ldac蓝牙音频
+下载软件Alternative A2DP Driver,需要付费   
+
+![image](https://user-images.githubusercontent.com/73635883/231927465-ae0863b0-be1f-4d90-ba73-78e385f80876.png)
+## 注册表清理软件Wise Registry Cleaner
+感觉还行,挺好用的,免费
+## FontCreator 14字体设计软件,改字体名
+放在私人网盘
+## mkv内嵌字幕  
+注意修改字体名称,部分字体有中英文两个名字,全要改   
+ ![image](https://user-images.githubusercontent.com/73635883/231929603-b64abdfe-dd52-4296-9a2e-24c3b2687a1e.png)
