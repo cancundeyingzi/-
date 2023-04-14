@@ -4,7 +4,7 @@ Win+R，输入CMD。在CMD里面输入“powercfg /batteryreport”。然后打�
 
 ![image](https://user-images.githubusercontent.com/73635883/231927237-68016fb6-149d-4a77-8592-901de2249e0b.png)
 ## win11ldac蓝牙音频
-下载软件Alternative A2DP Driver,需要付费   
+下载软件Alternative A2DP Driver,需要付费20一个设备   
 
 ![image](https://user-images.githubusercontent.com/73635883/231927465-ae0863b0-be1f-4d90-ba73-78e385f80876.png)
 ## 注册表清理软件Wise Registry Cleaner
