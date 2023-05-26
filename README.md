@@ -1,5 +1,13 @@
 
 
+# 2023.5.26
+## edge观看b站HDR视频
+在地址栏输入edge://flags/   
+页面搜索force color profile   
+改为HDR10![image](https://github.com/cancundeyingzi/rizhi/assets/73635883/715d5630-0655-4446-b6b4-f27062c0eb7c)
+
+
+
 # 2023.4.15
 ## ios端视频播放软件:    
 alook,操作手势舒服,自定义多,不支持HDR等        
