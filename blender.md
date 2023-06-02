@@ -1,3 +1,23 @@
+# 快捷键           
+Shift+鼠标右键。将游标移动到鼠标位置。          
+
+
+### 物体模式     
+
+### 编辑模式    
+##### 选中一个面今天     
+ shift+s  移动游标或者选中项。        
+ ![image](https://github.com/cancundeyingzi/rizhi/assets/73635883/3e6bdaf2-b62e-4d09-923e-aef83b9fb6b4)                 
+l(L)    追加选中相邻的面。
+
+
+
+
+
+
+
+
+
 ## 更换坐标系
 ![image](https://github.com/cancundeyingzi/rizhi/assets/73635883/db360b16-c08d-41cb-87a9-d25bc9ef2d5f)                 
 全局坐标系就是东南西北。        
