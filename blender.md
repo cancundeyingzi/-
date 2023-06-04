@@ -5,8 +5,8 @@ Shift加波浪号(`~键)。类似于射击游戏的操作模式wasd进行移动�
 ### 物体模式     
 
 ### 编辑模式    
-alt+n,法向设置(用于设置正反面等)
-alt+e,挤出设置(多次重复挤出等)
+alt+n,法向设置(用于设置正反面等)         
+alt+e,挤出设置(多次重复挤出等)             
 ##### 选中一个面     
  shift+s  移动游标或者选中项。        
  ![image](https://github.com/cancundeyingzi/rizhi/assets/73635883/3e6bdaf2-b62e-4d09-923e-aef83b9fb6b4)                 
