@@ -1,3 +1,10 @@
+# 2023.7.23
+## 删除虚拟摄像头
+电脑按win+r输入regedit       
+找到下面这个注册表位置        
+计算机\HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{860BB310-5D01-11d0-BD3B-00A0C911CE86}\Instance        
+在这里删掉出错的虚拟摄像头就可以了！！     
+
 # 2023.7.21
 折腾了好久,发现mpv的qsv-copy解码不兼容RTXvsr视频超分辨率,开启后者,mpv就会闪退.........
 
