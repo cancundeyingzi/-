@@ -1,3 +1,11 @@
+# 2023.11.6
+## 一些linux脚本命令
+#### rustdesk远程桌面自建服务器     输入,回车,一路yes,全部安装,dns,输入域名,然后完成后直接在手机上中继服务器输入域名,无需端口就能用,别的都不用搞    
+wget https://raw.githubusercontent.com/techahold/rustdeskinstall/master/install.sh      
+chmod +x install.sh      
+./install.sh       
+#### xui科学上网
+bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/956bf85bbac978d56c0e319c5fac2d6db7df9564/install.sh) 0.3.4.4
 # 2023.10.16
 ## 禁用移动鼠标唤醒电脑
 打开设备管理器,拔掉键盘,将键盘,鼠标和其他指针设备里面所有设备的属性,电源管理,允许此设备唤醒计算机,关了!,别问为什么要拔键盘
